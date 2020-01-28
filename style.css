@@ -1,8 +1,17 @@
-.container{
+.section-1{
     color: #353748;
 }
 .checked:before {
     content: '✓' ; 
     color: green;
     margin-right: 1vw;
-   }
+}
+.section-2 {
+    background-color: #58B792;
+    color:#FFFFFF;
+    margin: 8vh;
+}
+.section-2 .btn {
+    background-color: #2C5B49;
+    border-color: #2C5B49;   
+}
