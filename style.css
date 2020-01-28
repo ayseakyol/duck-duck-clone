@@ -1,0 +1,8 @@
+.container{
+    color: #353748;
+}
+.checked:before {
+    content: '✓' ; 
+    color: green;
+    margin-right: 1vw;
+   }
