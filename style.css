@@ -29,4 +29,18 @@
 }
 .section-3in {
     margin: 5vh;
+<<<<<<< Updated upstream
 }
+=======
+}
+.section-4{
+    background-color: #5F62BD;
+    color:#FFFFFF;
+}
+.section-4 .btn {
+    background-color: #2F325F;
+    border-color:#2F325F;
+}
+.section-4in {
+    margin: 5vh;
+>>>>>>> Stashed changes
