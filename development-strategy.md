@@ -16,7 +16,6 @@
 | __slide-3__ |  As an enthusiastic HYF student I can prepare cards to give more information about the company. | HTML code of cards. | use grid for cards. |
 | __slide-4__ | As an web developer I can prepare section for "no search history". | HTML code of this section with thinking the `accessability` of it. | CSS code of of this section.. |
 | __slide-5__ |  As an enthusiastic HYF student I can prepare section for "private browsing mode". | HTML code of this section with thinking the `accessability` of it. | CSS code of of this section.. |
-| __slide-6__ |  As an enthusiastic HYF student I can prepare section for "add duck to chrome". |  HTML code of this section with thinking the `accessability` of it. | CSS code of of this section.. | 
 
 
 
