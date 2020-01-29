@@ -9,9 +9,24 @@
 .section-2 {
     background-color: #58B792;
     color:#FFFFFF;
-    margin: 8vh;
+    padding-top: 5vh;
 }
 .section-2 .btn {
     background-color: #2C5B49;
     border-color: #2C5B49;   
+}
+.section-2in {
+    margin: 5vh;
+}
+.section-3 {
+    background-color: #F5A339;
+    color:#FFFFFF;
+}
+.section-3 .btn {
+    background-color: #7A511E;
+
+    border-color:#7A511E;
+}
+.section-3in {
+    margin: 5vh;
 }
